@@ -19,6 +19,6 @@
 <br />
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=Papr3ka&bg_color=535353&icon_color=51a5de&title_color=51a5de&text_color=ffffff&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Papr3ka&title_color=ffffff&icon_color=38a0ff&text_color=6e93b5&bg_color=64,666f78,4f5c69,3f4f5e,22384c,172f45&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&layout=compact&bg_color=535353&title_color=51a5de&text_color=ffffff)](https://github.com/Papr3ka/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&layout=compact&title_color=ffffff&icon_color=38a0ff&text_color=6e93b5&bg_color=64,666f78,4f5c69,3f4f5e,22384c,172f45)](https://github.com/Papr3ka/github-readme-stats)
