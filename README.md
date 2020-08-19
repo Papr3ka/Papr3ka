@@ -1,4 +1,6 @@
-# Welcome
+<center><h1>Welcome</h1></center>
+
+<br />
 
 <details>
 <summary>PC specs</summary>
