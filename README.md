@@ -1,5 +1,5 @@
-<center><h1>Welcome</h1></center>
-
+<h1  align="center">Welcome</h1></p>
+[![Visits Badge](https://badges.pufler.dev/visits/Papr3ka/Papr3ka)](https://badges.pufler.dev)
 <br />
 
 <details>
@@ -26,3 +26,4 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&title_color=ffffff&icon_color=38a0ff&text_color=6e93b5&bg_color=64,666f78,4f5c69,3f4f5e,22384c,172f45)](https://github.com/Papr3ka/github-readme-stats)
 
 <br />
+
