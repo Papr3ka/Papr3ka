@@ -1,6 +1,8 @@
 <h1  align="center">Welcome</h1></p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Papr3ka/Papr3ka)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/Papr3ka)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Papr3ka)](https://badges.pufler.dev)
 
 <br />
 
