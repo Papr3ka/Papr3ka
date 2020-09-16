@@ -45,7 +45,7 @@ Size: 17
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"font_size": 10,
 	"highlight_line": true,
-	"theme": "Spacegray Eighties.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme"
 }
 
 ```
