@@ -36,3 +36,20 @@ Cascadia Mono
 
 Size: 17
 
+# Sublime 3
+
+## Config
+```
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+}
+
+```
+
+## Theme
+[Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
+
