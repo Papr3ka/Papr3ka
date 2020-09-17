@@ -47,7 +47,6 @@ Size: 17
 	"highlight_line": true,
 	"theme": "Spacegray Eighties.sublime-theme"
 }
-
 ```
 
 ## Theme
