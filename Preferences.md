@@ -36,6 +36,23 @@ Cascadia Mono
 
 Size: 17
 
+# Windows Terminal
+
+See [settings.json](https://github.com/Papr3ka/Papr3ka/tree/master/WT)
+
+# Powershell
+
+.ps1
+```
+neofetch
+Import-Module posh-git
+Import-Module oh-my-posh
+Set-Theme Paradox
+```
+
+Requires Powerline and WSL
+
+
 # Sublime 3
 
 ## Config
