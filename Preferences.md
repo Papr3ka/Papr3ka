@@ -39,6 +39,7 @@ Size: 17
 # Windows Terminal
 
 See [settings.json](https://github.com/Papr3ka/Papr3ka/tree/master/WT)
+
 Requires [Cascadia Code](https://github.com/microsoft/cascadia-code/releases)
 
 # Powershell
