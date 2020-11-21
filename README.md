@@ -7,7 +7,15 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Papr3ka)](https://badges.pufler.dev)
 
 </div>
-<br />
+
+---
+
+<div align="center">
+  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+</div>
 
 <details>
 <summary>PC specs</summary>
@@ -25,7 +33,6 @@
 * NZXT S340
 </details>
 
-<br />
 <br />
 
 <a href="https://github.com/Papr3ka/Papr3ka">
