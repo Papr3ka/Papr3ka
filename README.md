@@ -14,23 +14,6 @@
 
 </div>
 
-<details>
-<summary>PC specs</summary>
-
-* I5 8600K
-
-* GTX 1070 Ti
-
-* Z370 Krait Gaming
-
-* 2x 8Gb Corsair Vengance LPX
-
-* Cryorig H7 Quad Lumi
-
-* NZXT S340
-</details>
-
-<br />
 
 <a href="https://github.com/Papr3ka">
   <p align = "center">
