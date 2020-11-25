@@ -36,8 +36,8 @@
 <br />
 
 <a href="https://github.com/Papr3ka/Papr3ka">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Papr3ka&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Papr3ka&theme=tokyonight&show_icons=true&hide_border=true height="196px" />
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&theme=tokyonight&show_icons=true&langs_count=3&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&theme=tokyonight&show_icons=true&langs_count=3&hide_border=true" height="196px"/>
 </a>
 
