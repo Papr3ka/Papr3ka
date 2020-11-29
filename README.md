@@ -18,7 +18,7 @@
 <a href="https://github.com/Papr3ka">
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Papr3ka&theme=tokyonight&show_icons=true&hide_border=true" height="196px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&theme=tokyonight&show_icons=true&hide_border=true" height="196px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&theme=tokyonight&hide_title=true&show_icons=true&hide_border=true" height="196px"/>
   </p>
 </a>
 
