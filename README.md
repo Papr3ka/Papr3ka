@@ -8,9 +8,10 @@
 
 
 ---
-
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)](https://github.com/Papr3ka)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://github.com/Papr3ka)
+[![C](https://img.shields.io/badge/C-%230e0c0b?style=flat-square&logo=c&logoColor=white)](https://github.com/Papr3ka)
+[![C++](https://img.shields.io/badge/C%2B%2B-%230e0c0b?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/Papr3ka)
+[![Python](https://img.shields.io/badge/-Python-%230e0c0b?style=flat-square&logo=Python)](https://github.com/Papr3ka)
+[![Godot Engine](https://img.shields.io/badge/GODOT-%230e0c0b.svg?style=flat-square&logo=godot-engine)](https://github.com/Papr3ka)
 
 </div>
 
