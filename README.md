@@ -1,27 +1,24 @@
-<h1  align="center">Welcome</h1></p>
+<h1 align="center">Welcome</h1>
+
+###
 
 <div align="center">
-
-[![Visits Badge](https://badges.pufler.dev/visits/Papr3ka/Papr3ka)](https://github.com/Papr3ka)
-[![Years Badge](https://badges.pufler.dev/years/Papr3ka)](https://github.com/Papr3ka)
-[![Repos Badge](https://badges.pufler.dev/repos/Papr3ka)](https://github.com/Papr3ka)
-
-
----
-[![C](https://img.shields.io/badge/C-%230e0c0b?style=flat-square&logo=c&logoColor=white)](https://github.com/Papr3ka)
-[![C++](https://img.shields.io/badge/C%2B%2B-%230e0c0b?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/Papr3ka)
-[![Python](https://img.shields.io/badge/-Python-%230e0c0b?style=flat-square&logo=Python)](https://github.com/Papr3ka)
-[![Godot Engine](https://img.shields.io/badge/GODOT-%230e0c0b.svg?style=flat-square&logo=godot-engine)](https://github.com/Papr3ka)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=papr3ka&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=papr3ka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
+###
 
-<a href="https://github.com/Papr3ka">
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Papr3ka&theme=tokyonight&show_icons=true&hide_border=true" height="196px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papr3ka&theme=tokyonight&hide_title=true&show_icons=true&langs_count=4&exclude_repo=TI83-programs&hide_border=true&layout=default" height="196px"/>
-  </p>
-</a>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cplusplus logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
 </div>
 
+###
